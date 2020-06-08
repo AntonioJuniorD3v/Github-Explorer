@@ -1,44 +1,62 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  Github Explorer - ReactJS
+  <br>
+  <br>
+  <img alt="React GitHub Explorer Dashboard" src="https://github.com/JuniorMoreno/Github-Explorer/blob/master/github-explorer-dashboard.png" width="450" height="400" />
+    <img alt="React GitHub Explorer Dashboard" src="https://github.com/JuniorMoreno/Github-Explorer/blob/master/github-explorer-repository.png" width="450" height="400"  />
+    
+   
+</h1>
 
-## Available Scripts
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-### `yarn start`
+## :rocket: Technologies
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This project was developed on Rocketseat's GoStack 11.0 Bootcamp with the following technologies:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+-  [React Navigation](https://reactnavigation.org/)
+-  [styled-components](https://www.styled-components.com/)
+-  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-### `yarn test`
+## :warning: Prerequisites
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In order to use and test the app on a simulator or on your smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment:
 
-### `yarn build`
+[React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
+  
+## :information_source: How To Use
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```bash
+# Clone this repository
+$ git clone https://github.com/JuniorMoreno/Github-Explorer.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Go into the repository
+$ cd github-explorer
 
-### `yarn eject`
+# Install dependencies
+$ yarn 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Run the app (iOS)
+$ react start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :memo: License
+This project is under the MIT license.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+Made with ♥ by Júnior Moreno :wave: [Get in touch!](https://www.linkedin.com/in/j%C3%BAnior-moreno-50a674153/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
