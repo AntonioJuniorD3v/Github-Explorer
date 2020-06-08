@@ -2,8 +2,8 @@
   Github Explorer - ReactJS
   <br>
   <br>
-  <img alt="React GitHub Explorer Dashboard" src="https://github.com/JuniorMoreno/Github-Explorer/blob/master/github-explorer-dashboard.png" width="450" height="400" />
-    <img alt="React GitHub Explorer Dashboard" src="https://github.com/JuniorMoreno/Github-Explorer/blob/master/github-explorer-repository.png" width="450" height="400"  />
+  <img alt="React GitHub Explorer Dashboard" src="https://github.com/JuniorMoreno/Github-Explorer/blob/master/github-explorer-dashboard.png" width="400" height="350" />
+    <img alt="React GitHub Explorer Dashboard" src="https://github.com/JuniorMoreno/Github-Explorer/blob/master/github-explorer-repository.png" width="400" height="350"  />
     
    
 </h1>
@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -23,12 +22,6 @@ This project was developed on Rocketseat's GoStack 11.0 Bootcamp with the follow
 -  [React Navigation](https://reactnavigation.org/)
 -  [styled-components](https://www.styled-components.com/)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
-
-## :warning: Prerequisites
-
-In order to use and test the app on a simulator or on your smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment:
-
-[React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
   
 ## :information_source: How To Use
 
