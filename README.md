@@ -19,8 +19,7 @@
 
 This project was developed on Rocketseat's GoStack 11.0 Bootcamp with the following technologies:
 
--  [React Navigation](https://reactnavigation.org/)
--  [styled-components](https://www.styled-components.com/)
+-  [React](https://pt-br.reactjs.org/)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
   
 ## :information_source: How To Use
